@@ -22,5 +22,4 @@ click on the stop alarm to stop that ringtone and remove popup image.
 
 # step 5: 
 after the alarm is ringing then clear the alarm history from upcoming alarm section.
-![Screenshot (21)](https://user-images.githubusercontent.com/62149463/229021967-e71f3dc4-9f63-4644-b9b5-0ce53be88262.png)
-
+![Screenshot (17)](https://user-images.githubusercontent.com/62149463/229022135-3101505e-44e3-4132-8d9e-b7a9f9ca8615.png)
