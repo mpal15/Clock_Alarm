@@ -6,11 +6,11 @@
 # Steps to use  Clock Alarm
 # Step 1: 
 set the  time for alarm.
-![Screenshot (16)](https://user-images.githubusercontent.com/62149463/229021033-76715abe-d931-4fe2-8f22-c811eb4c1c69.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/62149463/229021461-c9498b3b-91c0-4ad1-b0d5-7d41a77fd4ad.png)
 
 # step 2: 
 after the set the timing then alarm is set yo can see in the  section of upcomming alarm.
-![Screenshot (16)](https://user-images.githubusercontent.com/62149463/229021077-5a6fc3f7-f3be-4551-bf86-a66c605fa276.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/62149463/229021406-613f547f-765e-4190-8590-841705a7d87e.png)
 
 # Step 3:  
 if the set timing is match the real timing where you see above section then popup image
