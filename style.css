@@ -258,16 +258,17 @@ body{
     }
     .popup {
         width:250px;
-        height:300px;
+        height:330px;
          border-radius: 6px; 
         margin-left: -2%;
         padding: 2%;
         margin-top: -50%;
+        background-color: #fdf9f9;
     }
     .popup img{
-      height: 250px;
+      height: 300px;
       width: 250px;
-      /* border-radius: 6px; */
+       border-radius: 6px; 
       margin-bottom: 10px;
     }
 }
