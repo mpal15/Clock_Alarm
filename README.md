@@ -10,8 +10,7 @@ set the  time for alarm.
 
 # step 2: 
 after the set the timing then alarm is set yo can see in the  section of upcomming alarm.
-![Screenshot (18)](https://user-images.githubusercontent.com/62149463/229021406-613f547f-765e-4190-8590-841705a7d87e.png)
-
+![Screenshot (19)](https://user-images.githubusercontent.com/62149463/229021609-ed24fa56-9299-4fce-8861-7d38f8c33a4f.png)
 # Step 3:  
 if the set timing is match the real timing where you see above section then popup image
  which show that alarm time is match and ringing the ringtone.
